@@ -526,9 +526,7 @@ select {
   margin-bottom: 1.5em;
   max-width: 100%;
   width: auto; }
-.wrap-table {
-  overflow-x: auto;
-}
+
 table {
   border-collapse: collapse;
   margin: 0.75em 0;
